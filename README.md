@@ -1,4 +1,4 @@
-## cuda-attn
+## AdaAttention
 Fused attention kernels for PyTorch targeting Ada Lovelace GPUs (SM 8.9) with a deterministic fallback.
 
 - Build with `python setup.py build_ext --inplace` or `python setup.py install`.
